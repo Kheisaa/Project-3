@@ -8,5 +8,6 @@ Program  : Advanced AI
 
 ## Tech Stech :
 * Phyton
-* Github
-* Cognitive Class
+* HTML
+* CSS
+* JAVASCRIPT
